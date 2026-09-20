@@ -1,6 +1,7 @@
 # 🌐 Monitoria de Desenvolvimento Web 2026
 
 Bem-vindo(a) à central da monitoria da disciplina de **Introdução às tecnologias para Web**. 
+Mantida por alunos do 4º semestre
 
 ## 🚀 Canais de Comunicação
 
@@ -19,12 +20,12 @@ Veja como podemos interagir:
 
 Este repositório também servirá como a base de conteúdo e materiais de apoio para a disciplina.
 
-## 👤 Sobre os Monitores
+## 👥 Sobre os Monitores
 
-- Eliseu 
-- Aluno do 4º Semestre.
-- Engenherio de Software senior na [NTT DATA](https://br.nttdata.com/), atuo com [Salesforce](https://www.salesforce.com/br/) no [Itaú BBA](https://www.itau.com.br/itaubba-pt)
-- 🔗 **Conecte-se comigo:**  [LinkedIn](https://linkedin.com/in/seu-perfil) | [GitHub](https://github.com/egili)
+| Quem sou | O que faço | Contato |
+| :--- | :--- | :--- |
+| **Eliseu** | Engenheiro de Software Sênior na [NTT DATA](https://br.nttdata.com/) | [LinkedIn](https://linkedin.com/in/seu-perfil) \| [GitHub](https://github.com/egili) |
+| **[ ]** | [ ] | [LinkedIn]() \| [GitHub]() |
 
 ---
 
