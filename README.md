@@ -11,15 +11,21 @@ Aqui estão os melhores caminhos para interagir com a monitoria:
 
 ## Como funciona a monitoria
 
+Veja como podemos interagir:
 
-## 👤 Sobre o Monitor
+- 📚 **Pré-aulas:** Serão realizadas conforme a demanda dos alunos, com revisões ou introduções aos conceitos que serão abordados nas aulas para facilitar o acompanhamento.
+- ❓ **Dúvidas:** Você pode enviar suas dúvidas nos canais de comunicação. 
+- 🤝 **Reuniões:** Organizaremos reuniões periódicas (presenciais ou remotas) para tirar dúvidas em grupo, revisar projetos e dar suporte prático.
 
-**[Seu Nome Completo]**
+Este repositório também servirá como a base de conteúdo e materiais de apoio para a disciplina.
 
-- 🎓 Aluno atualmente no 4º Semestre.
-- 🛠️ Interesses: [Ex: React, Node.js, UI/UX, Backend, etc].
-- 🔗 **Conecte-se comigo:** [LinkedIn](https://linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)
+## 👤 Sobre os Monitores
+
+- Eliseu 
+- Aluno do 4º Semestre.
+- Engenherio de Software senior na [NTT DATA](https://br.nttdata.com/), atuo com [Salesforce](https://www.salesforce.com/br/) no [Itaú BBA](https://www.itau.com.br/itaubba-pt)
+- 🔗 **Conecte-se comigo:**  [LinkedIn](https://linkedin.com/in/seu-perfil) | [GitHub](https://github.com/egili)
 
 ---
 
-_Este repositório é mantido pelo monitor da disciplina. Sinta-se à vontade para sugerir melhorias via Issues!_
+_Sinta-se à vontade para sugerir melhorias via Issues!_
