@@ -25,7 +25,7 @@ Este repositório também servirá como a base de conteúdo e materiais de apoio
 | Quem sou | O que faço |  |
 | :--- | :--- | :--- |
 | **Eliseu** | Engenheiro de Software na [NTT DATA](https://br.nttdata.com/) | [LinkedIn](https://linkedin.com/in/eliseu-gili) \| [GitHub](https://github.com/egili) |
-| **Pietra** | Estagiária de Suporte Técnico e Desenvolvimento de Sistemas no [ITAL]([https://br.nttdata.com/](https://ital.agricultura.sp.gov.br/)) | [LinkedIn](https://linkedin.com/in/pietra-bortolato) \| [GitHub](https://github.com/piborto) |
+| **Pietra** | Estagiária de Suporte Técnico e Desenvolvimento de Sistemas no [ITAL](https://ital.agricultura.sp.gov.br/) | [LinkedIn](https://linkedin.com/in/pietra-bortolato) \| [GitHub](https://github.com/piborto) |
 
 ---
 
