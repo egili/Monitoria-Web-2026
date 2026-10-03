@@ -20,6 +20,17 @@ Veja como podemos interagir:
 
 Este repositório também servirá como a base de conteúdo e materiais de apoio para a disciplina.
 
+## 📚 Materiais de Apoio
+
+Para facilitar seus estudos, organizamos diversos recursos para você:
+
+- 🚀 **[Guias Rápidos (Cheat Sheets)](./cheat-sheets/)**: Tabelas de referência rápida para HTML, CSS e Git.
+- 💻 **[Guia de Setup](./docs/setup/guia-setup.md)**: Como configurar seu ambiente de desenvolvimento (VS Code, Git, Extensões).
+- 🗺️ **[Trilhas de Estudo](./docs/trilhas/trilhas-estudo.md)**: Um caminho passo a passo do básico ao avançado.
+- 🛠️ **[Guia de Debugging](./docs/apoio/guia-debugging.md)**: Como encontrar e corrigir erros no seu código.
+- ❓ **[Perguntas Frequentes (FAQ)](./faq/FAQ.md)**: Respostas para as dúvidas mais comuns da disciplina.
+- 📂 **[Exemplos de Código](./exemplos/)**: Modelos práticos de implementações.
+
 ## 👥 Sobre os Monitores
 
 | Quem sou | O que faço |  |
